@@ -1,2 +1,3 @@
-def hello_world('Hello World'):
+def hello_world():
+    print("Hello World!")
     # return Hello World! as string
