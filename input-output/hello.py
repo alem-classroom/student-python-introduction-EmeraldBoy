@@ -1,3 +1,4 @@
 def hello_world():
-  assert hello_world() == hello.hello_world() 55:
+ Hello = input("Hi\n")
+print("Hello World!")
 # return Hello World! as string
