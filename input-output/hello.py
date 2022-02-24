@@ -1,4 +1,4 @@
 def hello_world():
- Hello = input("Hi\n")
-print("Hello World!")
+c = "Hello World!"
+print(c)
 # return Hello World! as string
